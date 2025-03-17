@@ -1,4 +1,4 @@
-![Spatial Bass](https://drive.google.com/file/d/1sF1312v7uIZwfdYy3Sa-A_Feoa03WLGE/view?usp=sharing)
+![Spatial Bass](https://storage.cloud.google.com/a78nnwbzrpm/Spatial-Bass-439x179.jpg?authuser=1)
 
 [Spatial Bass](https://spatialbass.com) is home to information about 
 the use of multiple subwoofers for audio playback.
